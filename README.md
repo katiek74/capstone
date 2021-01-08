@@ -3,6 +3,11 @@
 *A look at how the COVID-19 pandemic impacted research in 2020*
 
 
+![number started in 2020](assets/Started.jpg)
+
+
+![average duration](assets/avg_duration.jpg)
+
 ## MOTIVATION
 
 I have previous experience working with human research studies in a regulatory and compliance component, so I am familiar with the subject matter. COVID-19 is currently impacting everyone, so this data is timely and significant. My main question was to compare COVID-19 studies versus other studies and also see how the COVID-19 pandemic has impacted clinical trials as a whole in 2020. 
@@ -19,3 +24,8 @@ Much of the data involved open text fields so there was a lot more data cleaning
 - PostgreSQL – for uploading the relational database from CTTI, I then fed this into Python
 - Python/Pandas - for exploration, cleaning and aggregation of the data
 - Tableau - for creating the presentation
+
+## PRESENTATION ON TABLEAU PUBLIC
+
+This presentation, along with some of my other dashboards, can be found on Tableau Public at https://public.tableau.com/profile/katie.kosfeld#!/
+
